@@ -1,12 +1,10 @@
-<img align="center" width="200" src="https://github.com/michaelagbiaowei/altschool-cloud-exercises/blob/main/Exam-Project/images/alt.png"> 
-
 ## **Cloud Engineering Second**
 
 ## **Semester Examination Project**
 
 ## **(Deploy Laravel and Set up Postgresql)**
 
-<img src="https://github.com/michaelagbiaowei/altschool-cloud-exercises/blob/main/Mimi-Project/images/logo.png"> 
+![Laravel RealWorld Example App](images/logo.png)
 
 
 
